@@ -1,2 +1,3 @@
 sicp
 ====
+scip exercises
